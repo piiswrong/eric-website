@@ -13,6 +13,12 @@ a.inline {
 
 }
 
+.embeded_img{
+ width: 90%;
+ margin: 10px 0; 
+ box-shadow: 5px 5px 5px #888;
+}
+
 .mdl-demo .mdl-layout__header-row {
   padding-left: 40px;
 }
